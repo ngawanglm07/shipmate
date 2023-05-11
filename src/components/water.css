@@ -1,0 +1,14 @@
+.wave{
+    position: absolute;
+width: 1633px;
+height: 80px;
+left: -11px;
+top: 900px;
+
+}
+
+.wave-box2{
+    position: absolute;
+    width: 1633px;
+    top:3px
+}

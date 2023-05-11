@@ -1,0 +1,360 @@
+.frame{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 93px;
+
+position: absolute;
+width: 1366px;
+height: 628.5px;
+left: 35px;
+top: 305px;
+
+}
+
+
+
+.update{
+    position: absolute;
+width: 573px;
+height: 63px;
+left: 433px;
+top: 182px;
+
+}
+
+.frame0{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+
+width: 907px;
+height: 628.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+
+.frame1{
+    width: 907px;
+    height: 256.5px;
+    
+    background: #FFFFFF;
+    /* Cards shadow */
+    box-shadow: 0px 196px 78px rgba(21, 31, 72, 0.01), 0px 110px 66px rgba(21, 31, 72, 0.05), 0px 49px 49px rgba(21, 31, 72, 0.09), 0px 12px 27px rgba(21, 31, 72, 0.1), 0px 0px 0px rgba(21, 31, 72, 0.1);
+    border-radius: 14px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.text-frame1{
+position: absolute;
+width: 192px;
+height: 28px;
+left: 26px;
+top: 30px;
+/* font-family: 'Figtree'; */
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 120%;
+color: #000000;
+}
+.frame55{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 633px;
+height: 35.87px;
+left: 131px;
+top: 109px;
+
+border-bottom:1px solid black;
+}
+.express{
+    position: absolute;
+width: 47px;
+height: 16px;
+left: 425px;
+top: 86px;
+
+/* Body Semi bold */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 120%;
+/* identical to box height, or 16px */
+text-align: center;
+
+color: #000000;
+}
+.express-icon{
+    width: 27px;
+height: 26.5px;
+
+
+/* Cards shadow */
+box-shadow: 0px 196px 78px rgba(21, 31, 72, 0.01), 0px 110px 66px rgba(21, 31, 72, 0.05), 0px 49px 49px rgba(21, 31, 72, 0.09), 0px 12px 27px rgba(21, 31, 72, 0.1), 0px 0px 0px rgba(21, 31, 72, 0.1);
+border-radius: 14px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.country-box{
+ display: flex;
+ flex-direction: column;
+ position: relative;
+ top: 123px;
+ left: 53px;
+
+}
+.country-box1{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 54px;
+    left: 770px;
+   
+   }
+small{
+    font-size: 12px;
+   
+}
+.country{
+   height: 29px;
+   width: 24px;
+   margin-left: 20px;
+}
+
+
+
+
+
+.frame2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    
+    width: 906px;
+    height: 165px;
+   
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+
+.min{
+    width: 232px;
+    height: 165px;
+    
+    background: #FFFFFF;
+    /* Cards shadow */
+    box-shadow: 0px 196px 78px rgba(21, 31, 72, 0.01), 0px 110px 66px rgba(21, 31, 72, 0.05), 0px 49px 49px rgba(21, 31, 72, 0.09), 0px 12px 27px rgba(21, 31, 72, 0.1), 0px 0px 0px rgba(21, 31, 72, 0.1);
+    border-radius: 14px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.minText{
+    font-size: 15px;
+    text-align: center;
+    font-weight: 200;
+    margin-top: 15px;
+}
+
+.min-icon{
+ height: 50px;
+width: 80px;
+margin-left: 70px;
+margin-top: 10px;
+}
+
+.minText2{
+    font-size: 17px;
+    text-align: center;
+    margin-top:17px ;
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+.max{
+    width: 664px;
+    height: 165px;
+    
+    background: #FFFFFF;
+    /* Cards shadow */
+    box-shadow: 0px 196px 78px rgba(170, 176, 198, 0.01), 0px 110px 66px rgba(21, 31, 72, 0.05), 0px 49px 49px rgba(21, 31, 72, 0.09), 0px 12px 27px rgba(21, 31, 72, 0.1), 0px 0px 0px rgba(21, 31, 72, 0.1);
+    border-radius: 14px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+   
+}
+
+.maxText{
+    
+width: 43px;
+height: 23px;
+
+
+/* Title02 Semi bold */
+margin-left: 20px;
+margin-top: 20px;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 120%;
+/* identical to box height, or 23px */
+text-align: center;
+
+color: #5C5C5C;
+}
+
+
+
+.maxText2{
+
+
+width: 36px;
+height: 29px;
+
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+margin-left: 35%;
+
+text-align: center;
+letter-spacing: 0.39em;
+
+color: #000000;
+}
+
+
+
+.maxText3{
+    width: 126px;
+height: 74px;
+
+
+text-align: center;
+margin-left: 37%;
+position: relative;
+bottom: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.pallet{
+    height: 60px;
+    width: 70px;
+   
+}
+.palletText{
+    position: relative;
+    bottom: 20px;
+    font-size: 12px;
+}
+
+.frame4{
+    width: 366px;
+height: 576px;
+
+background: #FFFFFF;
+/* Cards shadow */
+box-shadow: 0px 196px 78px rgba(21, 31, 72, 0.01), 0px 110px 66px rgba(21, 31, 72, 0.05), 0px 49px 49px rgba(21, 31, 72, 0.09), 0px 12px 27px rgba(21, 31, 72, 0.1), 0px 0px 0px rgba(21, 31, 72, 0.1);
+border-radius: 14px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+
+.frame3{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 21px;
+
+width: 907px;
+height: 187px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+.first{
+    width: 443px;
+    height: 187px;
+    
+    background: #FFFFFF;
+    /* Cards shadow */
+    box-shadow: 0px 196px 78px rgba(21, 31, 72, 0.01), 0px 110px 66px rgba(21, 31, 72, 0.05), 0px 49px 49px rgba(21, 31, 72, 0.09), 0px 12px 27px rgba(21, 31, 72, 0.1), 0px 0px 0px rgba(21, 31, 72, 0.1);
+    border-radius: 14px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.last{
+    width: 443px;
+    height: 187px;
+    
+    background: #FFFFFF;
+    /* Cards shadow */
+    box-shadow: 0px 196px 78px rgba(21, 31, 72, 0.01), 0px 110px 66px rgba(21, 31, 72, 0.05), 0px 49px 49px rgba(21, 31, 72, 0.09), 0px 12px 27px rgba(21, 31, 72, 0.1), 0px 0px 0px rgba(21, 31, 72, 0.1);
+    border-radius: 14px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
